@@ -243,6 +243,7 @@ BO_ 1407 NEW_MSG_13: 8 XXX
  SG_ Headlamps_1 : 12|1@0+ (1,0) [0|3] "" XXX
  SG_ Headlamps_2 : 13|2@0+ (1,0) [0|3] "" XXX
  SG_ Headlamps_3 : 11|1@1+ (1,0) [0|3] "" XXX
+ SG_ pause : 7|8@0+ (1,0) [0|255] "" XXX
 
 
 
