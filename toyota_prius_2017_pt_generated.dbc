@@ -259,6 +259,10 @@ BO_ 288 gear: 8 XXX
  SG_ gear_1 : 47|8@0+ (1,0) [0|255] "" XXX
  SG_ gear_2 : 63|8@0+ (1,0) [0|255] "" XXX
 
+BO_ 973 NEW_MSG_1: 8 XXX
+ SG_ NEW_SIGNAL_1 : 39|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_2 : 31|8@0+ (1,0) [0|255] "" XXX
+
 
 
 
