@@ -270,6 +270,9 @@ BO_ 970 speedkm: 8 XXX
 BO_ 1324 Engine_coolant_temp: 8 XXX
  SG_ Engine_coolant_temp : 15|8@0+ (0.5,0) [0|255] "" XXX
 
+BO_ 1344 Shift_lever: 8 XXX
+ SG_ gear : 15|8@0+ (1,0) [0|255] "" XXX
+
 
 
 
